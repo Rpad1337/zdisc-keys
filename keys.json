@@ -1,6 +1,10 @@
 {
-    "PAXTOOL-1DAY": {
+    "PAXTOOL-1DAY-1DAY": {
         "hwid": "49410874239094",
         "expires": "2025-08-05 23:59:59"
+    },
+    "PAXTOOL-7DAY-7DAY": {
+        "hwid": "49410874239795",
+        "expires": "2025-08-11 23:59:59"
     }
 }
