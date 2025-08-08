@@ -2,9 +2,8 @@
     "CB90FBA7-E90E-7617-A1CA-2CF05D9B6876": {
         "key": "TEST-4",
         "expiry": 1754771728
-    }
-},
-    "CB90FBA7-E90E-7617-A1CA-2CF05D9B6876": {
+    },
+    "ANOTHER-HWID-EXAMPLE-1234": {
         "key": "test4",
         "expiry": 1757277433
     }
